@@ -1,0 +1,4296 @@
+/* Landing Page */
+.landing-page{
+position: relative;
+width: 1440px;
+height: 4171px;
+
+background: #FFFFFF;
+
+
+
+/* Vector */
+.vector{
+position: absolute;
+left: 56.53%;
+right: 27.26%;
+top: 7.86%;
+bottom: 91.59%;
+}
+
+/* Secondary Color/500 */
+.secondary-color{
+background: #FF7A00;
+}
+
+/* Frame 1707479125 */
+.frame-1707479125{
+position: absolute;
+width: 2200px;
+height: 426px;
+left: 100px;
+top: 637px;
+
+border-radius: 10px;
+}
+
+/* Frame 1707479127 */
+.frame-1707479127{
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1800px;
+height: 426px;
+left: 0px;
+top: 0px;
+}
+
+
+/* Frame 1707479123 */
+.frame-1707479123{
+width: 888px;
+height: 426px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479051 */
+.frame-1707479051{
+position: absolute;
+width: 888px;
+height: 426px;
+left: 0px;
+top: calc(50% - 426px/2);
+
+background: rgba(0, 0, 0, 0.3);
+border-radius: 10px;
+
+
+/* Icon wrap */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px 0px;
+
+position: absolute;
+width: 24px;
+height: 28px;
+left: 530px;
+top: 296px;
+
+
+
+/* arrow-up-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+/* Gray/900 */
+border: 2px solid #0E1829;
+
+
+/* Chip */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 24px;
+gap: 4px;
+
+position: absolute;
+width: 177px;
+height: 33px;
+left: 56px;
+top: 55px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 16px;
+}
+
+/* Masters Scholarship */
+.masters-scholarship{
+width: 129px;
+height: 21px;
+
+/* Body text/14px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479125 */
+.frame-1707479125 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 729px;
+height: 124px;
+left: 56px;
+top: 246px;
+}
+
+
+/* Allan and Nesta Ferguson Scholarship in UK 2024 (University of East Anglia) */
+.allan-and-nesta-ferguson-scholarship-in-uk {
+width: 729px;
+height: 72px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479128 */
+.frame-1707479128 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 103px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* SR Team */
+.sr-team {
+width: 71px;
+height: 27px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Icon wrap */
+.icon-wrap {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px 0px;
+
+width: 24px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* arrow-up-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Icon */
+.icon {
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+border: 2px solid #FFFFFF;
+}
+
+/* Frame 1707479122 */
+.frame-1707479122 {
+width: 888px;
+height: 426px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1707479051 */
+.frame-1707479051 {
+position: absolute;
+width: 888px;
+height: 426px;
+left: 0px;
+top: calc(50% - 426px/2);
+
+background: rgba(0, 0, 0, 0.3);
+border-radius: 10px;
+
+
+/* Icon wrap */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px 0px;
+
+position: absolute;
+width: 24px;
+height: 28px;
+left: 530px;
+top: 296px;
+
+
+
+/* arrow-up-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+/* Gray/900 */
+border: 2px solid #0E1829;
+
+/* Chip */
+.chip {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 24px;
+gap: 4px;
+
+position: absolute;
+width: 177px;
+height: 33px;
+left: 56px;
+top: 55px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 16px;
+}
+
+/* Masters Scholarship */
+.masters-scholarship {
+width: 129px;
+height: 21px;
+
+/* Body text/14px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479129 */
+.frame-1707479129 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 729px;
+height: 124px;
+left: 56px;
+top: 246px;
+}
+
+
+/* 2024 France Science Po MasterCard Scholarship for International Students. */
+.body-text {
+width: 729px;
+height: 72px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479128 */
+.frame-1707479128 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 190px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Scholarship Region */
+.scholarship-region {
+width: 158px;
+height: 27px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon wrap */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px 0px;
+
+width: 24px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* arrow-up-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+border: 2px solid #FFFFFF;
+}
+
+/* Frame 1000002478 */
+.frame-1000002478 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+position: absolute;
+width: 104px;
+height: 3px;
+left: calc(50% - 104px/2);
+top: 1103px;
+}
+
+
+/* Frame 1000002476 */
+.frame-1000002476 {
+width: 12px;
+height: 3px;
+
+background: #DEDEDE;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1000002477 */
+.frame-1000002477 {
+width: 32px;
+height: 3px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1000002480 */
+.frame-1000002480 {
+width: 12px;
+height: 3px;
+
+background: #DEDEDE;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+/* Frame 1000002483 */
+.frame-1000002483 {
+width: 12px;
+height: 3px;
+
+background: #DEDEDE;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+
+/* Frame 1000002482 */
+.frame-1000002482 {
+width: 12px;
+height: 3px;
+
+background: #DEDEDE;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+/* Image 5 */
+.image-5 {
+box-sizing: border-box;
+
+position: absolute;
+width: 648px;
+height: 600px;
+left: 2113.22px;
+top: 587px;
+
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 30px;
+}
+
+/* Frame 4 */
+.frame-4 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 886px;
+height: 256px;
+left: calc(50% - 886px/2);
+top: 175px;
+}
+
+
+/* Unlock Your Potential with Global Scholarships */
+.unlock-your-potential-with-global-scholarships {
+width: 886px;
+height: 188px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 130%;
+/* or 94px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #0E1829;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Explore a range of opportunities to help fund your education and achieve your dreams. Apply now and invest in your future. */
+.explore-a-range-of-opportunities-to-help-fund-your-education-and-achieve-your-dreams {
+width: 500px;
+height: 48px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1707479047 */
+.frame-1707479047 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 531px;
+height: 48px;
+left: calc(50% - 531px/2 - 0.5px);
+top: 470px;
+}
+
+
+/* Frame 1000003114 */
+.frame-1000003114 {
+width: 400px;
+height: 48px;
+
+background: #F5F7F9;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Group 33979 */
+.group-33979 {
+position: absolute;
+width: 244px;
+height: 24px;
+left: 20px;
+top: calc(50% - 24px/2 - 1px);
+}
+
+
+/* Frame 1707479046 */
+.frame-1707479046 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 244px;
+height: 24px;
+left: 20px;
+top: 11px;
+
+
+
+/* Icon
+
+search, find, look up, magnifying glass
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 1px;
+top: 1px;
+
+background: #445469;
+
+
+/* Text Area */
+
+width: 212px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+display: flex;
+align-items: center;
+
+/* Violet/Lighter */
+color: #A58C8E;
+
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 195 */
+.frame-195 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 115px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 2 */
+.frame-2 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 32px;
+gap: 10px;
+
+width: 115px;
+height: 48px;
+
+/* Primary Color/600 */
+background: #000840;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Search */
+.search {
+width: 51px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1000003362 */
+.frame-1000003362 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 25px;
+
+position: absolute;
+width: 1110px;
+height: 180px;
+left: calc(50% - 1110px/2);
+top: 1202px;
+}
+
+
+/* Section Heading */
+.section-heading {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 355px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Count Number */
+.count-number {
+width: 350px;
+height: 72px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 150%;
+/* identical to box height, or 72px */
+font-feature-settings: 'salt' on, 'liga' off;
+
+color: #0E1829;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Trusted by thousands of students and leading academic institutions. */
+.trusted-by-thousands-of-students-and-leading-academic-institutions {
+width: 355px;
+height: 48px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Logos */
+.logos {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 730px;
+height: 180px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Row 1 */
+.row-1 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 730px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* FedEx Logo */
+.fedex.logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* FedEx Logo */
+
+position: absolute;
+left: 20.59%;
+right: 20.59%;
+top: 34.38%;
+bottom: 34.38%;
+
+
+
+/* g15 */
+
+position: absolute;
+left: 0%;
+right: 0.12%;
+top: 0%;
+bottom: -0.53%;
+
+
+
+/* g17 */
+
+position: absolute;
+left: 57.98%;
+right: 0.12%;
+top: 0%;
+bottom: 2.99%;
+
+
+
+/* polygon19 */
+
+position: absolute;
+left: 74.36%;
+right: 0.12%;
+top: 35.43%;
+bottom: 2.99%;
+
+background: #FF5700;
+
+
+/* polygon21 */
+
+position: absolute;
+left: 57.98%;
+right: 25.64%;
+top: 0%;
+bottom: 2.99%;
+
+background: #FF5700;
+
+
+/* path23 */
+
+position: absolute;
+left: 0%;
+right: 42.02%;
+top: 0%;
+bottom: -0.53%;
+
+background: #6D2894;
+}
+
+/* Amazon Logo */
+.amazon.logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Amazon Logo */
+
+position: absolute;
+left: 20%;
+right: 19.41%;
+top: 33.33%;
+bottom: 33.33%;
+
+
+
+/* path8 */
+
+position: absolute;
+left: 14.07%;
+right: 37.53%;
+top: 63.8%;
+bottom: 0%;
+
+background: #FF9300;
+
+
+/* path10 */
+
+position: absolute;
+left: 57.19%;
+right: 32.86%;
+top: 60.33%;
+bottom: 7.15%;
+
+background: #FF9300;
+
+
+/* path12 */
+
+position: absolute;
+left: 57.22%;
+right: 30.56%;
+top: 1.47%;
+bottom: 43.39%;
+
+background: #000000;
+
+
+/* path14 */
+
+position: absolute;
+left: 17.05%;
+right: 62.11%;
+top: 0.51%;
+bottom: 42.03%;
+
+background: #000000;
+
+
+/* path16 */
+
+position: absolute;
+left: 70.93%;
+right: 15.03%;
+top: 0.51%;
+bottom: 40.94%;
+
+background: #000000;
+
+/* path18 */
+
+position: absolute;
+left: 87.29%;
+right: 0%;
+top: 0.51%;
+bottom: 42.03%;
+
+background: #000000;
+
+
+/* path28 */
+
+position: absolute;
+left: 40.57%;
+right: 44.63%;
+top: 0%;
+bottom: 41.31%;
+
+background: #000000;
+
+
+/* path30 */
+
+position: absolute;
+left: 0%;
+right: 85.2%;
+top: 0%;
+bottom: 41.31%;
+
+background: #000000;
+}
+
+/* Airbnb Logo */
+.airbnb-logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Airbnb Logo */
+
+position: absolute;
+left: 20%;
+right: 19.41%;
+top: 33.33%;
+bottom: 33.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: 0.34%;
+top: -0.07%;
+bottom: 0%;
+
+background: #FF0057;
+}
+
+/* Microsoft Logo */
+.microsoft.logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Microsoft Logo */
+
+position: absolute;
+left: 14.12%;
+right: 14.12%;
+top: 36.46%;
+bottom: 36.46%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.75%;
+right: 0.02%;
+top: 15.58%;
+bottom: 18.92%;
+
+background: #737373;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 89.85%;
+top: 0%;
+bottom: 52.48%;
+
+background: #FF3D00;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.21%;
+right: 78.64%;
+top: 0%;
+bottom: 52.48%;
+
+background: #6CBC00;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 89.85%;
+top: 52.48%;
+bottom: 0%;
+
+background: #00A7F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.21%;
+right: 78.64%;
+top: 52.48%;
+bottom: 0%;
+
+background: #FFB500;
+
+
+/* Row 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 730px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* OLA Logo */
+.ola-logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* OLA logo */
+
+position: absolute;
+left: 21.18%;
+right: 21.18%;
+top: 32.29%;
+bottom: 32.29%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0.09%;
+right: 0.11%;
+top: 0.09%;
+bottom: 0.57%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.09%;
+right: 0.11%;
+top: 0.09%;
+bottom: 0.57%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.77%;
+right: 74.11%;
+top: 27.55%;
+bottom: 27.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.65%;
+right: 73.87%;
+top: 27.14%;
+bottom: 25.84%;
+
+background: #D5DF00;
+}
+
+/* Google Logo */
+.google.logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Google Logo */
+
+position: absolute;
+left: 22.35%;
+right: 21.76%;
+top: 33.33%;
+bottom: 33.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.19%;
+right: 57.44%;
+top: 27.17%;
+bottom: 24.61%;
+
+background: #FE2B25;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.84%;
+right: 39.8%;
+top: 27.17%;
+bottom: 24.61%;
+
+background: #FFB900;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.48%;
+right: 22.89%;
+top: 27.17%;
+bottom: 3.01%;
+
+background: #1F87FC;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.23%;
+right: 17.28%;
+top: 3.26%;
+bottom: 26.09%;
+
+background: #00AB47;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.22%;
+right: 0.74%;
+top: 27.16%;
+bottom: 24.62%;
+
+background: #FE2B25;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.13%;
+right: 75.19%;
+top: 0.51%;
+bottom: 24.62%;
+
+background: #1F87FC;
+}
+
+/* OYO Logo */
+.oyo-logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* OYO Logo */
+
+position: absolute;
+left: 25.29%;
+right: 25.29%;
+top: 33.33%;
+bottom: 33.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.55%;
+top: 3.85%;
+bottom: 4.25%;
+
+background: #FF0001;
+}
+
+/* Walmart Logo */
+.walmart-logo {
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Default / White */
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Walmart Logo */
+
+position: absolute;
+left: 14.71%;
+right: 14.71%;
+top: 35.42%;
+bottom: 35.42%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 27.08%;
+top: 21.74%;
+bottom: 21.74%;
+
+background: #001F45;
+
+
+/* Shape */
+
+position: absolute;
+left: 77.08%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFBE00;
+}
+
+/* Frame 1171275004 */
+.frame-1171275004 {
+position: absolute;
+width: 1440px;
+height: 548px;
+right: 0px;
+top: 2245px;
+
+/* Secondary Color/100 */
+background: #FFE5C9;
+}
+
+/* Frame 1707479018 */
+.frame-1707479018 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 1440px;
+height: 116px;
+left: 0px;
+top: 91px;
+}
+
+
+/* Why Scholarship Region? */
+.why-scholarship-region {
+width: 886px;
+height: 60px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #0E1829;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* With a commitment to innovation and excellence, we are at the forefront of shaping the next generation of leaders and change makers. */
+.With-a-commitment-to-innovation-and-excellence-we-are-at-the-forefront-of-shaping-the-next-generation-of-leaders-and-change-makers {
+width: 637px;
+height: 48px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Feature 5 */
+.feature-5 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1236px;
+height: 154px;
+left: calc(50% - 1236px/2);
+top: 275px;
+
+border-radius: 16px;
+}
+
+/* Text */
+.text {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 280px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1171274964 */
+.frame-1171274964 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 44px;
+height: 44px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 1000px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame */
+.frame {
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.24%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.6%;
+
+background: #FFFFFF;
+}
+
+/* Frame 1171275074 */
+.frame-1171275074 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 280px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Proven Track Record */
+.proven-track-record {
+width: 280px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+text-align: center;
+
+color: #18181B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* We have a very long history of helping students achieve their career goal. We have thousands of successful stories. */
+.we-have-a-very-long-history {
+width: 280px;
+height: 60px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+text-align: center;
+
+/* Grey/100 */
+color: #445469;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1171275122 */
+.frame-1171275122 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 0px 0px;
+gap: 10px;
+
+width: 120px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 427321063 */
+.frame-427321063 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+gap: 10px;
+
+width: 40px;
+height: 1px;
+
+background: #FF8000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.92%;
+top: 17.17%;
+bottom: 17.18%;
+
+background: #FF8000;
+}
+
+/* Frame 427321064 */
+.frame-427321064 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+gap: 10px;
+
+width: 40px;
+height: 1px;
+
+background: #FF8000;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+}
+
+/* Text */
+.text {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 281px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+/* Frame 1171275075 */
+.frame-1171275075 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 44px;
+height: 44px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 1000px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #FFFFFF;
+}
+
+/* Frame 1171275074 */
+.frame-1171275074 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 281px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Comprehensive Support */
+
+width: 281px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+text-align: center;
+
+color: #18181B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Scholarship Region provides a range of resources including career guidance and networking opportunities. */
+
+width: 280px;
+height: 60px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+text-align: center;
+
+/* Grey/100 */
+color: #445469;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1171275123 */
+.frame-1171275123 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 0px 0px;
+gap: 10px;
+
+width: 120px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+
+/* Frame 427321063 */
+.frame-427321063 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+gap: 10px;
+
+width: 40px;
+height: 1px;
+
+background: #FF8000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.92%;
+top: 17.17%;
+bottom: 17.18%;
+
+background: #FF8000;
+}
+
+/* Frame 427321064 */
+.frame-427321064 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+gap: 10px;
+
+width: 40px;
+height: 1px;
+
+background: #FF8000;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 280px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+/* Frame 1171275075 */
+.frame-1171275075 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 44px;
+height: 44px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 1000px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.26%;
+right: 6.25%;
+top: 9.43%;
+bottom: 9.37%;
+
+background: #FFFFFF;
+}
+
+/* Frame 1171275076 */
+.frame-1171275076 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 310px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Trusted Partnership */
+
+width: 310px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+text-align: center;
+
+color: #18181B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Endorsed by prestigious educational institutions. We are recognized as a trusted ally in pursuit of higher education. */
+
+width: 280px;
+height: 60px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+text-align: center;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1707479060 */
+
+position: absolute;
+width: 1440px;
+height: 1117px;
+left: calc(50% - 1440px/2);
+top: 2792px;
+
+
+
+/* Group 1000004766 */
+
+position: absolute;
+width: 1240px;
+height: 938.08px;
+left: calc(50% - 1240px/2);
+top: 112px;
+
+
+
+/* Frame 1707479044 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 80px;
+
+position: absolute;
+width: 612px;
+height: 938.08px;
+left: 100px;
+top: 112px;
+}
+
+
+/* Frame 1707479042 */
+.frame-1707479042 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 612px;
+height: 225px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1171274959 */
+.frame-1171274959 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 15px;
+gap: 10px;
+
+width: 153px;
+height: 37px;
+
+/* Secondary Color/100 */
+background: #FFE5C9;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* How to get Started */
+
+width: 123px;
+height: 17px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+
+color: #18181B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479013 */
+.frame-1707479013 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 612px;
+height: 168px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Here is an easier way to get started */
+
+width: 604px;
+height: 124px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+
+color: #18181B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Unlock the door to your Scholarship successes with these essential steps. */
+
+width: 612px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 55152 */
+
+width: 586.17px;
+height: 633.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1707479015 */
+
+position: absolute;
+width: 507px;
+height: 563px;
+left: 84.98px;
+top: 305px;
+
+background: #F9F9F9;
+border-radius: 32px;
+transform: rotate(8.68deg);
+}
+
+/* Frame 1707479014 */
+.frame-1707479014 {
+position: absolute;
+width: 507px;
+height: 555px;
+left: 526.59px;
+top: 340.04px;
+
+background: #F9F9F9;
+border-radius: 32px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+/* Frame 1707479016 */
+.frame-1707479016 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 72px;
+
+position: absolute;
+width: 580px;
+height: 665px;
+left: 760px;
+top: 375px;
+}
+
+
+/* Features */
+.features {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 580px;
+height: 545px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 32px 24px 40px;
+gap: 10px;
+
+width: 580px;
+height: 171px;
+
+background: #F9FAFB;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Frame 1171274962 */
+.frame-1171274962 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 508px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.24%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.6%;
+
+background: #000000;
+
+
+/* Explore and identify scholarships. */
+
+width: 474px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+
+color: #0E1829;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Start by diving into our comprehensive database of scholarships. Use the search filters to find opportunities that aligns with your academic interests. */
+
+width: 508px;
+height: 42px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 32px 24px 40px;
+gap: 10px;
+
+width: 580px;
+height: 171px;
+
+background: #F9FAFB;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Frame 1171274963 */
+.frame-1171274963 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 508px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.24%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.6%;
+
+background: #000000;
+
+
+/* Create your profile and gather application materials. */
+
+width: 474px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+
+color: #0E1829;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Begin by creating a detailed profile that helps matches you with scholarships that fits your qualifications. Next gather necessary documents for your applications. */
+
+width: 508px;
+height: 42px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 32px 24px 40px;
+gap: 10px;
+
+width: 580px;
+height: 171px;
+
+background: #F9FAFB;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Frame 1171274963 */
+.frame-1171274963 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 508px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.24%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.6%;
+
+background: #000000;
+
+
+/* Submit your applications and track progress. */
+
+width: 474px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+
+color: #0E1829;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Review all information for accuracy and completeness before submitting. After submitting you applications, use our platform to track their statues. */
+
+width: 508px;
+height: 42px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Frame 195 */
+.frame-195 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 193px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 2 */
+.frame-2 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 32px;
+gap: 10px;
+
+width: 193px;
+height: 48px;
+
+/* Primary Color/600 */
+background: #000840;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Find Scholarships */
+
+width: 129px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479193 */
+.frame-1707479193 {
+position: absolute;
+width: 1440px;
+height: 724px;
+left: calc(50% - 1440px/2);
+top: 1521px;
+
+background: #F9FAFB;
+}
+
+/* Frame 1707479116 */
+.frame-1707479116 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 1240px;
+height: 431px;
+left: calc(50% - 1240px/2);
+top: 220px;
+
+
+
+/* Frame 1707479084 */
+
+width: 402px;
+height: 431px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479113 */
+.frame-1707479113 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+position: absolute;
+width: 366px;
+height: 365px;
+left: 18px;
+top: 26px;
+
+
+
+/* Frame 1707479098 */
+
+width: 366px;
+height: 252px;
+
+/* Primary Color/500 */
+background: #000D69;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 59 */
+
+position: absolute;
+width: 472px;
+height: 266px;
+left: -53px;
+top: -7px;
+}
+
+
+/* Frame 1707479112 */
+.frame-1707479112 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 366px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1707479110 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+width: 366px;
+height: 69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Name */
+
+width: 143px;
+height: 18px;
+
+/* Caption text/12px regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+letter-spacing: 0.01em;
+
+/* Primary Color/500 */
+color: #000D69;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479095 */
+.frame-1707479095 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 366px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Switzerland CERN Student Scholarship 2024 | Fully Funded */
+
+width: 366px;
+height: 48px;
+
+/* Button Text/16px Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+/* Primary Color/900 */
+color: #000315;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* _Client details / 2 - Dark Text */
+.client-details-text {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 366px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Person Details */
+.person-details {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 86px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Designation */
+
+width: 86px;
+height: 21px;
+
+/* Body text/14px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.01em;
+
+/* Text / Gray 800 */
+color: #464A58;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1707479085 */
+
+width: 402px;
+height: 431px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1707479113 */
+.frame-1707479113 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+position: absolute;
+width: 366px;
+height: 365px;
+left: 18px;
+top: 26px;
+
+
+
+/* Frame 1707479098 */
+
+width: 366px;
+height: 252px;
+
+/* Primary Color/500 */
+background: #000D69;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 57 */
+
+position: absolute;
+width: 486px;
+height: 274px;
+left: -60px;
+top: -11px;
+
+
+
+/* image 60 */
+
+position: absolute;
+width: 486px;
+height: 274px;
+left: -16px;
+top: -11px;
+}
+
+
+/* Frame 1707479112 */
+.frame-1707479112 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 366px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1707479110 */
+.frame-1707479110 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+width: 366px;
+height: 69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Name */
+
+width: 143px;
+height: 18px;
+
+/* Caption text/12px regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+letter-spacing: 0.01em;
+
+/* Primary Color/500 */
+color: #000D69;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479095 */
+.frame-1707479095 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 366px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* France Émile Boutmy Scholarship 2024 | Fully Funded */
+
+width: 366px;
+height: 48px;
+
+/* Button Text/16px Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+/* Primary Color/900 */
+color: #000315;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* _Client details / 2 - Dark Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 366px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Person Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 86px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Designation */
+
+width: 86px;
+height: 21px;
+
+/* Body text/14px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.01em;
+
+/* Text / Gray 800 */
+color: #464A58;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479086 */
+.frame-1707479086 {
+width: 402px;
+height: 431px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+/* Frame 1707479113 */
+.frame-1707479113 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+position: absolute;
+width: 366px;
+height: 365px;
+left: 18px;
+top: 26px;
+
+
+
+/* Frame 1707479098 */
+
+width: 366px;
+height: 252px;
+
+/* Primary Color/500 */
+background: #000D69;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 61 */
+
+position: absolute;
+width: 480px;
+height: 270px;
+left: -57px;
+top: -9px;
+}
+
+
+/* Frame 1707479112 */
+.frame-1707479112 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 366px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1707479110 */
+.frame-1707479110 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+width: 366px;
+height: 69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Name */
+
+width: 143px;
+height: 18px;
+
+/* Caption text/12px regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+letter-spacing: 0.01em;
+
+/* Primary Color/500 */
+color: #000D69;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479095 */
+.frame-1707479095 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 366px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* NEXTSHIP International Scholarship 2024 | Fully Funded */
+
+width: 366px;
+height: 48px;
+
+/* Button Text/16px Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+/* Primary Color/900 */
+color: #000315;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* _Client details / 2 - Dark Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 366px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Person Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 86px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Designation */
+
+width: 86px;
+height: 21px;
+
+/* Body text/14px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.01em;
+
+/* Text / Gray 800 */
+color: #464A58;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1707479196 */
+.frame-1707479196 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 523px;
+
+position: absolute;
+width: 1240px;
+height: 116px;
+left: 100px;
+top: 56px;
+}
+
+
+/* Frame 1707479195 */
+.frame-1707479195 {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 593px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Featured Scholarships */
+
+width: 454px;
+height: 60px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+letter-spacing: 0.01em;
+
+color: #0E1829;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Explore a range of opportunities to help fund your education and achieve your dreams. Apply now and invest in your future. */
+
+width: 593px;
+height: 48px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 195 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 124px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 2 */
+.frame-2 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 32px;
+gap: 10px;
+
+width: 124px;
+height: 48px;
+
+/* Secondary Color/500 */
+background: #FF7A00;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* View All */
+
+width: 60px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Component 117 */
+
+position: absolute;
+width: 1440px;
+height: 110px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Line 58 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 110px;
+
+border: 0.8px solid #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Frame 1000003348 */
+.frame-1000003348 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 890px;
+height: 48px;
+left: 450px;
+top: calc(50% - 48px/2);
+}
+
+
+/* Frame 1000003344 */
+.frame-1000003344 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 582px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 35228 */
+.frame-35228 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 16px;
+gap: 8px;
+
+width: 78px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 46px;
+height: 24px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 35227 */
+.frame-35227 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 16px;
+gap: 8px;
+
+width: 125px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Scholarships */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 35232 */
+.frame-35232 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 16px;
+gap: 8px;
+
+width: 161px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* For Organisations */
+
+width: 129px;
+height: 24px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 35230 */
+.frame-35230 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 16px;
+gap: 8px;
+
+width: 73px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Blogs */
+
+width: 41px;
+height: 24px;
+
+/* Body text/16px Regular */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 35231 */
+.frame-35231 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 16px;
+gap: 8px;
+
+width: 113px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Contact us */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+letter-spacing: 0.01em;
+
+/* Grey/100 */
+color: #445469;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Frame 1000003347 */
+.frame-1000003347 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 284px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 1000003346 */
+.frame-1000003346 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 121px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 40px;
+gap: 10px;
+
+width: 121px;
+height: 48px;
+
+background: #F9F9F9;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Login */
+
+width: 41px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Color/600 */
+color: #000840;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 195 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 151px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Frame 2 */
+.frame-2 {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 32px;
+gap: 10px;
+
+width: 151px;
+height: 48px;
+
+/* Primary Color/600 */
+background: #000840;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Get Started */
+
+width: 87px;
+height: 24px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Layer1031 */
+
+position: absolute;
+width: 211.04px;
+height: 49.48px;
+left: 100px;
+top: calc(50% - 49.48px/2 - 0.26px);
+
+
+
+/* Layer1032 */
+
+position: absolute;
+left: 6.94%;
+right: 89.61%;
+top: 27.27%;
+bottom: 27.75%;
+
+
+
+/* path139 */
+
+position: absolute;
+left: 6.94%;
+right: 89.86%;
+top: 29.12%;
+bottom: 40.85%;
+
+background: #000D69;
+
+
+/* Layer1033 */
+
+position: absolute;
+left: 7%;
+right: 89.61%;
+top: 27.27%;
+bottom: 27.75%;
+
+
+
+/* path141 */
+
+position: absolute;
+left: 7.11%;
+right: 90.04%;
+top: 27.27%;
+bottom: 59.19%;
+
+
+
+/* path143 */
+
+position: absolute;
+left: 7%;
+right: 89.61%;
+top: 41.72%;
+bottom: 27.75%;
+
+background: #FF7A00;
+
+
+/* Layer1034 */
+
+position: absolute;
+left: 11.05%;
+right: 78.4%;
+top: 35.23%;
+bottom: 34.53%;
+
+
+
+/* Layer1035 */
+
+position: absolute;
+left: 11.05%;
+right: 78.4%;
+top: 35.23%;
+bottom: 34.53%;
+
+
+
+/* path147 */
+
+position: absolute;
+left: 11.05%;
+right: 78.4%;
+top: 35.23%;
+bottom: 34.53%;
+
+background: #000D69;
+
+
+/* path149 */
+
+position: absolute;
+left: 15.52%;
+right: 80%;
+top: 58.43%;
+bottom: 34.64%;
+
+background: #000D69;
+}
+
+/* Layer1035 */
+.layer1035 {
+position: absolute;
+left: 11.05%;
+right: 78.4%;
+top: 35.23%;
+bottom: 34.53%;
+}
+}
+}
